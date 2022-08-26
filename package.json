@@ -1,0 +1,27 @@
+{
+  "name": "edfoal-scrapper",
+  "version": "1.0.0",
+  "description": "edfoal's dedicated web scrapper.",
+  "main": "main.js",
+  "scripts": {
+    "test": "start:test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edfoal/edfoal-scrapper.git"
+  },
+  "keywords": [
+    "scrapper",
+    "web-scrapper"
+  ],
+  "author": "Ravi Pawar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Edfoal/edfoal-scrapper/issues"
+  },
+  "homepage": "https://github.com/Edfoal/edfoal-scrapper#readme",
+  "devDependencies": {
+    "eslint": "^8.22.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
